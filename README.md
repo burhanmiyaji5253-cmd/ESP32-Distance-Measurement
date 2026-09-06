@@ -3,7 +3,7 @@
 Reads distance from an HC-SR04 ultrasonic sensor wired to an ESP32 and serves a
 live-updating web page showing the reading, over Wi-Fi.
 
-🎥 Watch the full demo video on Youtube: 
+🎥 Watch the full demo video on Youtube: https://youtube.com/shorts/ahQNf9ook2c
 
 ## How it works
 
